@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Priyanshu Awasthi
 ![Priyanshu Awasthi GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshuawas&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuawas&layout=compact)](https://github.com/priyanshuawas/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuawas&layout=compact)](https://github.com/priyanshuawas/github-readme-stats)-->
 
 
 <!--
