@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Priyanshu Awasthi
+![Priyanshu Awasthi GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshuawas&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuawas&layout=compact)](https://github.com/priyanshuawas/github-readme-stats)
+
 
 <!--
 **priyanshuawas/priyanshuawas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ..
 -->
+
+
